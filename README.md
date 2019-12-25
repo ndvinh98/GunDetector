@@ -1,10 +1,8 @@
 # GunDetector
 Simple Gun Detector with yolo
 
-using Tensorflow to build model
+Using Tensorflow to build model then training with google colab
 
-Training with google colab
-
-based on this tutorial: https://pbcquoc.github.io/yolo/
+Based on this tutorial: https://pbcquoc.github.io/yolo/
 
 demo
